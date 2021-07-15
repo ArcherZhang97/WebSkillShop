@@ -330,7 +330,7 @@ button {
     width: 100%;
     height: 250px;
     border-radius: 5px;
-    background: url("../../img/header-img.jpg");
+    background: url("../img/header-img.jpg");
     @include bgImg(center);
     display: grid;
     align-items: flex-end;
